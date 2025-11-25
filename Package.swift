@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DummyLib",
-            url: "https://github.com/nik6018/DummyFramework/archive/refs/tags/v-0.1.0.zip",
+            url: "https://filebin.net/8xnlpig9r26q4mhw/My_Dummy.xcframework.zip",
             checksum: "39ae1975ddf7c92b8d6b597afd989655f8e15f305a4d5d2fb0355cb0d8fd09a8"
         )
     ]
